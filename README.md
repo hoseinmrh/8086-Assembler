@@ -1,5 +1,6 @@
 # 8086-Assembler
 <p><strong>The 8086 assembler is simple python script that can help you convert your assembly code into machine code</strong></p>
+- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 
 ## Table of Contents
 - [Intruduction](#intruduction)
