@@ -27,7 +27,6 @@ In this app you can write your own assembly code using simple instructions such 
 ## Project Structure
 The project follows a specific structure to organize its files and directories:
 ```
-diabetes-prediction-app/
 ├── Project.py
 ├── README.md
 ```
